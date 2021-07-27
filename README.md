@@ -1,6 +1,6 @@
 ## Oi, sou o Jefferson :wave:
 
-<br/> :speech_balloon:  &nbsp;Amo tranformar ideias em códigos e gosto de resolver desafios.😄
+<br/> :speech_balloon:  &nbsp;Amo tranformar ideias em códigos e resolver desafios.😄
 <br/>:purple_heart: &nbsp; Aprendendo C#
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-rodrigues-19a110141/)](https://www.linkedin.com/in/jefferson-rodrigues-19a110141/)
 
